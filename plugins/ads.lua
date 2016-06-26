@@ -1,10 +1,10 @@
 do
  function run(msg, matches)
 return [[ 
-کانال رسمی تیم بزرگ آواست!جدید ترین نوآوری ها و... 
-https://telegram.me/avast_team
-https://telegram.me/avast_team
-https://telegram.me/avast_team
+کانال رسمی تیم بزرگ کله خر!جدید ترین نوآوری ها و... 
+https://telegram.me/daredevil_team
+https://telegram.me/daredevil_team
+https://telegram.me/daredevil_team
 ]]
 end
 return {
