@@ -31,7 +31,7 @@ __________________________________
 irancell.ir
 سر بزنید
 _________________________________
-@avast_Team
+@daredevil_Team
 ]]
 return text
 end
