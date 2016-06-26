@@ -282,23 +282,18 @@ function create_config( )
     "tv",
     "help_plug"
     },
-    sudo_users = {212990316},--Sudo users
+    sudo_users = {107098884,180099603},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[avast-Bot V7.5 - http://bit.ly/1SCRF1i
 ربات پیشرفته برپایه لوا
 
-اعضای تیم آواست:
-@arashnomiri
-@Oo_sArDaR_marginam_oO
-@redteam_01_01
-@Pukeram
-@iq_plus
-@negative_officiall
-@DrCyber1736
+اعضای تیم کله خر:
+@Mhdl80
+@drtechno
 
 کانال:
-@avast_Team
+@daredevil_Team
 ]],
     help_text_realm = [[
 Realm Commands:
