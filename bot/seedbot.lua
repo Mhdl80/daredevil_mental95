@@ -290,7 +290,7 @@ function create_config( )
 
 اعضای تیم کله خر:
 @Mhdl80
-@drtechno
+@jalebduni
 
 کانال:
 @daredevil_Team
