@@ -15,15 +15,15 @@ if msg.text == "Salam" then
   return "سلام علیکم"
 end
 if msg.text == "salam" then
-  return "کیر خر و سلام :]"
+  return "کوفت و سلام :]"
 end
-if msg.text == "آواست" then
+if msg.text == "کله خر" then
   return "بهترین"
 end
-if msg.text == "Avast" then
+if msg.text == "daredevil" then
   return "بهترین"
 end
-if msg.text == "AVAST" then
+if msg.text == "daredevil_mental" then
   return "جان"
 end
 if msg.text == "bot" then
@@ -42,10 +42,10 @@ if msg.text == "سلام" then
   return "علیـک"
 end
 if msg.text == "slm" then
-  return "کیر خر،مثل آدم سلام کن"
+  return "مثل آدم سلام کن"
 end
 if msg.text == "Slm" then
-  return "کیر خر،مثل آدم سلام کن"
+  return "مثل آدم سلام کن"
 end
 if msg.text == "بای" then
   return "اودافظ"
@@ -53,10 +53,10 @@ end
 if msg.text == "خدافظ" then
   return "خدافظ"
 end
-if msg.text == "arash" then
+if msg.text == "@Mhdl80" then
   return "چیکار داری بابامو؟"
 end
-if msg.text == "@arashnomiri" then
+if msg.text == "شعبون" then
   return "چیکار داری بابامو؟"
 end
 end
