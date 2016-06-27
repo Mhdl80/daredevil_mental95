@@ -11,7 +11,7 @@ local function tosticker(msg, success, result)
     redis:del("photo:setsticker")
   else
     print('Error downloading: '..msg.id)
-    send_large_msg(receiver, 'Failed, please try again!', ok_cb, false)
+    send_large_msg(receiver, 'Failed,لطفا دوباره تلاش کنید!', ok_cb, false)
   end
 end
 local function run(msg,matches)
@@ -26,7 +26,7 @@ local function run(msg,matches)
     end
    if matches[1] == "setsticker" and is_sudo(msg)then
      redis:set("photo:setsticker", "waiting")
-     return 'Please send your photo now'
+     return 'لطفا عکس خود را ارسال کنید'
     end
  if matches[1]:lower() == 'avast' then
  send_document(get_receiver(msg), "sticker.webp", ok_cb, false)
